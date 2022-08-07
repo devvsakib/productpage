@@ -13,23 +13,6 @@ p {
 body {
     background: hsl(30, 38%, 92%);
 }
-
-.topHeader {
-    width: 350px;
-    margin: auto;
-    text-align: center;
-    margin-top: 10px;
-    font-family: 'Fraunces';
-
-}
-.topHeader span{
-    display: block;
-    text-align: right;
-    color: hsl(228, 12%, 48%);
-    font-weight: 500;
-    
-}
-
 .mainContainer {
     width: 600px;
     height: 450px;
